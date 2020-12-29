@@ -1,0 +1,169 @@
+{
+	"Saatler": [{
+
+			"Model": "Rolex Oyster Perpetual Submariner",
+			"Yil": "2020",
+			"KasaCapi": "40mm",
+			"CamTipi": "Safir",
+			"Mekanizma": "Otomatik",
+			"KordonMalzemesi": "904L Çelik",
+			"SaatTarzi": "Dalgıç Saati",
+			"Fiyat": "$7500",
+			"GreyMarketFiyati": "$9000",
+			"BannerUrl": "https://raw.githubusercontent.com/SelimAsik34/h5180054selimasik/main/RolexResimler/banner_submariner.jpg",
+			"LogoUrl": "https://raw.githubusercontent.com/SelimAsik34/h5180054selimasik/main/RolexResimler/logo_submariner.jpg",
+			"SaatDetayi": "<b>Submariner</b><br>Rolex, dalış dünyasıyla olan tarihî bağlarını temsil eden yeni nesil Oyster Perpetual Submariner ve Oyster Perpetual Submariner Date saatlerini sunuyor. İki saat de, kasa yanlarında ve çerçeve kulaklarındaki ışık yansımalarıyla profili vurgulanan, yeniden tasarlanmış, hafifçe genişletilmiş 41 mm kasaya ve yeniden modellenmiş bir bileziğe sahiptir."
+		},
+
+		{
+			"Model": "Rolex Datejust",
+			"Yil": "2020",
+			"KasaCapi": "36mm-41mm",
+			"CamTipi": "Safir",
+			"Mekanizma": "Otomatik",
+			"KordonMalzemesi": "904L Çelik",
+			"SaatTarzi": "Günlük Giyim Saati",
+			"Fiyat": "$5500",
+			"GreyMarketFiyati": "$9500",
+			"BannerUrl": "https://raw.githubusercontent.com/SelimAsik34/h5180054selimasik/main/RolexResimler/banner_datejust.jpg",
+			"LogoUrl": "https://raw.githubusercontent.com/SelimAsik34/h5180054selimasik/main/RolexResimler/logo_datejust.jpg",
+			"SaatDetayi": "<b>Datejust</b><br>Rolex, Oyster Perpetual Datejust 31 modelinin dört yeni beyaz Rolesor (Oystersteel çelik ve 18 kt beyaz altın karışımı) seçeneğini sunuyor. 46 yuvarlak kesim pırlantalı çerçevesiyle ilk saat, VI Roma rakamı pırlantalarla süslenmiş patlıcan rengi, güneş ışını rötuşlu kadrana sahiptir. Diğer üç versiyon sırasıyla, nane yeşili, güneş ışını rötuşlu, beyaz lake ya da koyu gri, güneş ışını rötuşlu kadranlara ve 18 kt beyaz altın çerçeveye sahiptir. İbreler ve indeks saat imleri veya Roma rakamları, dört saatin tamamında 18 kt beyaz altındandır. Kasanın yanlarında ve kulaklardaki ışık yansımaları, 31 mm’lik Oyster kasasının zarif profilini vurgular."
+
+		},
+
+		{
+
+			"Model": "Rolex Day-date",
+			"Yil": "2020",
+			"KasaCapi": "36mm-40mm",
+			"CamTipi": "Safir",
+			"Mekanizma": "Otomatik",
+			"KordonMalzemesi": "Beyaz Altın",
+			"SaatTarzi": "Günlük Giyim Saati",
+			"Fiyat": "$31.500",
+			"GreyMarketFiyati": "$47.000",
+			"BannerUrl": "https://raw.githubusercontent.com/SelimAsik34/h5180054selimasik/main/RolexResimler/banner_daydate.jpg",
+			"LogoUrl": "https://raw.githubusercontent.com/SelimAsik34/h5180054selimasik/main/RolexResimler/logo_daydate.png",
+			"SaatDetayi": "<b>Day-date</b><br>Bu prestijli saat, mükemmel hassasiyeti, güvenilirliği, okunurluğu ve görünüşü ile kol saatinde referans hâline gelmiştir."
+
+		},
+
+		{
+			"Model": "Rolex Daytona",
+			"Yil": "2020",
+			"KasaCapi": "40mm",
+			"CamTipi": "Safir",
+			"Mekanizma": "Otomatik",
+			"KordonMalzemesi": "Sarı Altın",
+			"SaatTarzi": "Yarış Pilotu Saati",
+			"Fiyat": "$26.900",
+			"GreyMarketFiyati": "$56.000",
+			"BannerUrl": "https://raw.githubusercontent.com/SelimAsik34/h5180054selimasik/main/RolexResimler/banner_daytona.jpg",
+			"LogoUrl": "https://raw.githubusercontent.com/SelimAsik34/h5180054selimasik/main/RolexResimler/logo_daytona.jpg",
+			"SaatDetayi": "<b>Daytona</b><br>1963 yılında piyasaya sürülen Cosmograph Daytona, profesyonel yarış pilotlarının taleplerini karşılamak üzere tasarlanmıştır. İsmi ve işlevi, motor sporları dünyasının yüksek performansıyla ebediyen bütünleşmiş bir ikondur. Tasarımından bugüne dek geçen 50 yılı aşkın sürenin ardından Cosmograph Daytona, sportif kronograflar arasında kendine has yerini korumaktadır ve zamanın ötesine geçmeye devam etmektedir."
+
+		},
+
+		{
+
+			"Model": "Rolex Air-King",
+			"Yil": "2020",
+			"KasaCapi": "40mm",
+			"CamTipi": "Safir",
+			"Mekanizma": "Otomatik",
+			"KordonMalzemesi": "904L Çelik",
+			"SaatTarzi": "Pilot Saati",
+			"Fiyat": "$7.920",
+			"GreyMarketFiyati": "$8.450",
+			"BannerUrl": "https://raw.githubusercontent.com/SelimAsik34/h5180054selimasik/main/RolexResimler/banner_airking.jpg",
+			"LogoUrl": "https://raw.githubusercontent.com/SelimAsik34/h5180054selimasik/main/RolexResimler/logo_airking.jpg",
+			"SaatDetayi": "<b>Air-King</b><br>40 mm’lik Oystersteel çelik kasası, Oysterclasp tokalı masif Oyster bileziği ve çarpıcı siyah kadranıyla Air‑King, orijinal Rolex Oyster’ın havacılık mirasını devam ettirir."
+
+		},
+
+		{
+
+			"Model": "Rolex Millegauss",
+			"Yil": "2020",
+			"KasaCapi": "40mm",
+			"CamTipi": "Safir",
+			"Mekanizma": "Otomatik",
+			"KordonMalzemesi": "904L Çelik",
+			"SaatTarzi": "Anti-manyetik Saat",
+			"Fiyat": "$9.400",
+			"GreyMarketFiyati": "$10.600",
+			"BannerUrl": "https://raw.githubusercontent.com/SelimAsik34/h5180054selimasik/main/RolexResimler/banner_millegauss.png",
+			"LogoUrl": "https://raw.githubusercontent.com/SelimAsik34/h5180054selimasik/main/RolexResimler/logo_millegauss.jpg",
+			"SaatDetayi": "<b>Millegauss</b><br>1956’da yaratılan saat, 1000 gaussa kadar olan manyetik alanlara dayanabilir. Fransızca’da bin kelimesinin karşılığı “mille” olduğundan saat bu şekilde adlandırılmıştır. Türünün ilk örneği olan Milgauss, benzersiz estetik unsurları bilimsel mirasla bir araya getirir."
+
+		},
+
+		{
+
+			"Model": "Rolex Exploler",
+			"Yil": "2020",
+			"KasaCapi": "40mm",
+			"CamTipi": "Safir",
+			"Mekanizma": "Otomatik",
+			"KordonMalzemesi": "904L Çelik",
+			"SaatTarzi": "Keşif Saat",
+			"Fiyat": "$6.550",
+			"GreyMarketFiyati": "$7.300",
+			"BannerUrl": "https://raw.githubusercontent.com/SelimAsik34/h5180054selimasik/main/RolexResimler/banner_exploler.jpg",
+			"LogoUrl": "https://raw.githubusercontent.com/SelimAsik34/h5180054selimasik/main/RolexResimler/logo_exploler.jpg",
+			"SaatDetayi": "<b>Exploler</b><br>Marka uzun yıllar boyunca kutup, dağ ve mağara keşiflerini saatleriyle donatarak modelleri gerçek hayatta test etme şansı yakalamıştır. Dünyanın en gözü pek kâşiflerinden, dağcılarından ve bilim insanlarından bazıları, Explorer ve Explorer II modellerinin güvenilirliğini en zorlu koşullar altında sınamıştır."
+		},
+
+		{
+
+			"Model": "Rolex Sky-Dweller",
+			"Yil": "2020",
+			"KasaCapi": "42mm",
+			"CamTipi": "Safir",
+			"Mekanizma": "Otomatik",
+			"KordonMalzemesi": "Altın",
+			"SaatTarzi": "Zaman dilimi tutabilen Saat",
+			"Fiyat": "$33.500",
+			"GreyMarketFiyati": "$47.300",
+			"BannerUrl": "https://raw.githubusercontent.com/SelimAsik34/h5180054selimasik/main/RolexResimler/banner_skydweller.jpg",
+			"LogoUrl": "https://raw.githubusercontent.com/SelimAsik34/h5180054selimasik/main/RolexResimler/logo_skydweller.jpg",
+			"SaatDetayi": "<b>Sky-Dweller</b><br>Rolex, Oyster Perpetual Sky-Dweller modelinin, 18 kt sarı altından, Oysterflex bilezikle donatılmış bir versiyonunu sunuyor. Saat, Klasik kategoride yüksek performanslı elastomerden yapılmış bu yenilikçi bileziğe sahip ilk modeldir. "
+
+		},
+
+		{
+			"Model": "Rolex Cellini",
+			"Yil": "2020",
+			"KasaCapi": "39mm",
+			"CamTipi": "Safir",
+			"Mekanizma": "Otomatik",
+			"KordonMalzemesi": "Timsah Derisi",
+			"SaatTarzi": "Klasik Saat",
+			"Fiyat": "$6.550",
+			"GreyMarketFiyati": "$7.300",
+			"BannerUrl": "https://raw.githubusercontent.com/SelimAsik34/h5180054selimasik/main/RolexResimler/banner_cellini.jpg",
+			"LogoUrl": "https://raw.githubusercontent.com/SelimAsik34/h5180054selimasik/main/RolexResimler/logo_cellini.png",
+			"SaatDetayi": "<b>Cellini</b><br>Bu koleksiyon, Rolex’in ileri uzmanlığını ve yüksek mükemmellik standartlarını, saat işçiliği mirasında zamana meydan okuyan bir yaklaşımla birleştirir. Sade ve şık hatları, asil malzemeleri ve lüks ışıltılarıyla Cellini modellerinin her ayrıntısı, saat işçiliği sanatının kurallarına riayet eder."
+
+		},
+
+		{
+
+			"Model": "Rolex GMT-Master-2",
+			"Yil": "2020",
+			"KasaCapi": "40mm",
+			"CamTipi": "Safir",
+			"Mekanizma": "Otomatik",
+			"KordonMalzemesi": "904L Çelik",
+			"SaatTarzi": " Zaman dilimi tutabilen Saat",
+			"Fiyat": "$15.000",
+			"GreyMarketFiyati": "$39.000",
+			"BannerUrl": "https://raw.githubusercontent.com/SelimAsik34/h5180054selimasik/main/RolexResimler/banner_gmt.jpg",
+			"LogoUrl": "https://raw.githubusercontent.com/SelimAsik34/h5180054selimasik/main/RolexResimler/logo_gmt.jpg",
+			"SaatDetayi": "<b>GMT-Master-2</b><br>Orijinal modelin mirasını sürdüren GMT-Master II, kullanım kolaylığını garanti eden yeni bir mekanizmayla 1982 yılında görücüye çıkmıştır. Emsalsiz işlevselliği, sağlamlığı ve derhâl ayırt edilebilen estetik unsurları bir araya getirişiyle, daha geniş bir dünya gezgini kitlesini kendine çekmektedir."
+
+		}
+
+
+	]
+}
